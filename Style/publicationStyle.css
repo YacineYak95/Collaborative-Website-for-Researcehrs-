@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+#searchPublication {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#publicationTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
+
+#publicationTable th, #publicationTable td {
+  text-align: left;
+  padding: 12px;
+}
+
+#publicationTable tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#publicationTable tr.header, #publicationTable tr:hover {
+  background-color: #f1f1f1;
+}

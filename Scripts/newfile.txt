@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<markers><marker lat="35.697654" lng="-0.633738"/></markers>
